@@ -1,0 +1,13 @@
+<svg width="500" height="120" viewBox="0 0 500 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Icon box -->
+  <rect x="0" y="10" width="100" height="100" rx="20" fill="#002c7a"></rect>
+  <!-- 'a' letter inside icon -->
+  <text x="32" y="82" font-family="Arial, sans-serif" font-size="70" fill="white">a</text>
+  <!-- Orange dot in corner -->
+  <circle cx="85" cy="85" r="7" fill="#ff5b00"></circle>
+  <circle cx="196" cy="15" r="5" fill="#ff5b00"></circle>
+  <!-- Brand Name (much larger) -->
+  <text x="120" y="65" font-family="Arial, sans-serif" font-size="78" fill="#002c7a">atıesco</text>
+  <!-- Tagline (larger too) -->
+  <text x="122" y="100" font-family="Arial, sans-serif" font-size="30" fill="#002c7a">Applicant Tracking System</text>
+</svg>
